@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+# IonianValues.github.io
+The IonianValues Quiz measures and analyzes various aspects of Ionian political, social and economic viewpoints over the course of 72 questions, with four axes of values. IonianValues is based upon 8values.
